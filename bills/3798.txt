@@ -1,0 +1,23 @@
+***************************************
+	Welcome to Cafe Horizon
+***************************************
+
+Bill Number : 3798
+Customer Name : Shraddha
+Customer Phone no. : 9890518410
+
+***************************************
+Products		QTY		Price
+***************************************
+Cappuccino		1		126
+Barley Tea		1		155
+Chocolate		1		116
+Pineapple		1		122
+
+=======================================
+Tax on Coffee			Rs. 7.56
+Tax on Tea			Rs. 4.65
+Tax on Pastry			Rs. 11.9
+---------------------------------------
+Total Price			Rs. 543.11
+=======================================

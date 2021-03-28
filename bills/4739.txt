@@ -1,0 +1,25 @@
+***************************************
+	Welcome to Cafe Horizon
+***************************************
+
+Bill Number : 4739
+Customer Name : C4
+Customer Phone no. : 1234567890
+
+***************************************
+Products		QTY		Price
+***************************************
+Espresso		1		116
+Cafe Mocha		1		142
+Green Tea		12		1500
+Barley Tea		1		155
+Red Velvet		3		597
+Fudge		2		360
+
+=======================================
+Tax on Coffee			Rs. 15.48
+Tax on Tea			Rs. 49.65
+Tax on Pastry			Rs. 47.85
+---------------------------------------
+Total Price			Rs. 2982.98
+=======================================
